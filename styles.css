@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #8B4513;
+    color: white;
+} 
+ul{
+    text-align: left;
+    font-size: 30px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+h1:hover{
+    color: blueviolet;
+
+}
